@@ -1,0 +1,355 @@
+{
+    "headerLinks": [
+        "home",
+        "about",
+        "programmes",
+        "contact"
+    ],
+    "footerLinks": [
+        "Home",
+        "About",
+        "Programmes",
+        "Contact",
+        "Privacy policy",
+        "Terms And Conditions"
+    ],
+    "about": {
+        "heading": "About Us",
+        "paragraph": "Seasons Tour Company was established in 2012 in Georgia, Tbilisi, and is considered the first Arab tourism company in Georgia. It operates on the charter system. We are also happy to provide everything you need in Georgia, Azerbaijan and Trabzon, from hotel reservations, apartments reservation, villa reservations, huts reservation, rental Car, van or bus, with or without a driver. University admissions, group reception, tours, transfer of airports and land borders."
+    },
+    "reservation": {
+        "heading": "Find Your Reservation",
+        "paragraph": "You can search for your reservation with your 20-character reservation code"
+    },
+    "services": {
+        "heading": "Our Services",
+        "paragraph": "We offer you travel services in order to facilitate everything on your trip and provide full fun. Only you have to decide and we have to meet"
+    },
+    "serviciesCards": [
+        {
+            "photo": "https://firebasestorage.googleapis.com/v0/b/seasons-images.appspot.com/o/flights?alt=media&token=61e3b043-700c-4076-ab9a-3f88b4cee02e",
+            "heading": "Flight Reservation",
+            "paragraph": "You no longer have to worry about your flight booking, you now have a whole team tasked with fulfilling your request in this regard and making sure that everything is ready for your convenience.",
+            "link": "flight-book"
+        },
+        {
+            "photo": "https://firebasestorage.googleapis.com/v0/b/seasons-images.appspot.com/o/programs?alt=media&token=06b6b57f-9327-41c8-8e61-528614145772",
+            "heading": "Programmes",
+            "paragraph": "You can choose what suits you from our integrated programs and provide everything you need during your trip, starting from flight reservations, hotel reservations, car rental and all the services you may need during your trip.",
+            "link": "program-search"
+        },
+        {
+            "photo": "https://firebasestorage.googleapis.com/v0/b/seasons-images.appspot.com/o/hotels?alt=media&token=26bc50ff-0407-47ad-8ba0-4510eafea82d",
+            "heading": "Hotel Reservation",
+            "paragraph": "We are in Seasons Tour. We do not care about anything but your comfort , so we were keen to search for the best hotels with the best offers to make sure that you will get what you deserve from the comfort, privacy and fun during your trip.",
+            "link": "hotel-search"
+        },
+        {
+            "photo": "https://firebasestorage.googleapis.com/v0/b/seasons-images.appspot.com/o/cars?alt=media&token=b08be0b8-812e-4eb4-8491-d0309f1416c3",
+            "heading": "Car Rental",
+            "paragraph": "Car rental service to provide you with comfort, privacy and save time during internal transfers throughout your stay.",
+            "link": "car-search"
+        },
+        {
+            "photo": "https://firebasestorage.googleapis.com/v0/b/seasons-images.appspot.com/o/train?alt=media&token=b056e1ec-6a47-4e8f-95de-ca5ed3bc1179",
+            "heading": "Train Reservation",
+            "paragraph": "Train Reservation service to provide you with comfort, privacy and save time during internal transfers throughout your stay.",
+            "link": "https://tre.ge/en"
+        }
+    ],
+    "tourApps": {
+        "heading": "Seasons Tour Applications",
+        "paragraph": "You can now enjoy the services of the SeasonsTour easily through mobile applications for the SeasonsTour on the Google Store and the Apple Store"
+    },
+    "offers": {
+        "heading": "Our Offers",
+        "paragraph": "Seasons Tour Company seeks to provide the best offers to its customers in order to provide the fun, comfort and luxury that the seasons tour client deserves."
+    },
+    "contact": {
+        "heading": "Contact Us",
+        "paragraph": "Having any problems want to discuss it, Please Contact Us",
+        "title": "Get In Touch With Us",
+        "form": ["Name", "Email Address", "Message"],
+        "alert": "Your Message Has Been Sent"
+    },
+    "privacyAndTerms": ["Privacy Policy", "Terms And Conditions"],
+    
+    "newPopup": {
+        "heading": "Attention!",
+        "paragraph": "We have made some changes in our website to be easy and more comfotable for our users, If there is any problems in our new website please contact us via email."
+    },
+    "programs": {
+        "filterTool": {
+            "filter": ["Show All", "Include Flight", "Not Include Flight"],
+            "results": "Results"
+        },
+        "cardInfo": {
+            "days": "Days",
+            "nights": "Nights",
+            "details": "Flight Detials",
+            "trip": {
+                "go": "Go Trip",
+                "return": "Return Trip",
+                "flightLine": "Flight Line",
+                "from": "Going From",
+                "to": "Arrival In",
+                "deptDateTime": "Departure Date & Time",
+                "arrivalDateTime": "Arrival Date & Time",
+                "returnStartDateTime": "Return Start Date & Time",
+                "returnEndDateTime": "Return End Date & Time",
+                "allowedWeight": "Allowed Weight (KG)",
+                "flightNum": "Flight Number"
+            },
+            "programDetails": "Program Details"
+        },
+        "search": {
+            "heading": "Programs Reservation",
+            "leader": "Leader",
+            "trip": ["Include Flight", "Not Include Flight"],
+            "country": "Country Name",
+            "city": "City Name",
+            "deptDate": "Departure Date",
+            "toDate": "To Date",
+            "infants": "Number Of infants 0-2 Years",
+            "children": "Number Of Children 2-11 Years",
+            "adults": "Number Of Adults +12 Years",
+            "roomType": "Room Type",
+            "childReserv": "Child Reservation",
+            "childCount": "Child Count In Room",
+            "single": "Single Room",
+            "double": "Double Room",
+            "triple": "Triple Room",
+            "none": "None",
+            "childWithBed": "Child With Bed",
+            "childWithoutBed": "Child Without Bed",
+            "singlePrice": "Single Room Price Per night",
+            "doublePrice": "Double Room Price Per night",
+            "triplePrice": "Triple Room Price Per night",
+            "childWithBedPrice": "Child With Bed",
+            "childWithoutBedPrice": "Child Without Bed",
+            "infantPrice": "Infant Price",
+            "flight_ticket": "Flight ticket"
+        }
+    },
+    "carRental": "Car Rental",
+    "carBook": {
+        "heading": "Booking Car",
+        "details": {
+            "type": "Car Type",
+            "price": "Price Per Day",
+            "driver": {
+                "head": "Driver",
+                "with": "With Driver",
+                "without": "Without Driver"
+            },
+            "fName": "First Name",
+            "lName": "Last Name",
+            "email": "Email Address",
+            "phone": "Phone Number",
+            "fDate": "From Date",
+            "tDate": "To Date",
+            "days": "Days Count",
+            "total": "Total",
+            "tax": "Tax",
+            "net": "Net",
+            "notes": "Notes",
+            "agentDiscount": "Agent Discount"
+        },
+        "bookMessage": "Your Booking Has Been Completed",
+        "bookingCode": "Your Reservation Code Is",
+        "yourBalance": "Your Balance Is ",
+        "noBalance": "No Enough Balance"
+    },
+
+    "hotelReservation": "Hotel Reservations",
+    "hotelBook": {
+        "heading": "Booking Hotel",
+        "details": {
+            "name": "Hotel Name",
+            "details": "Hotel Details",
+            "address": "Hotel Address",
+            "rate": "Hotel Rate",
+            "type": "Meal Type",
+            "city": "City",
+            "status": {
+                "head": "Status",
+                "available": "Available",
+                "unavailable": "Unavailable"
+            },
+            "tools": {
+                "head": "Tools",
+                "text": "Create"
+            },
+            "room": {
+                "head": "Select Room",
+                "single": "Single Room",
+                "double": "Double Room",
+                "triple": "Triple Room"
+            },
+            "childReservation": {
+                "head": "Child Reservation",
+                "none": "None",
+                "with":"Child With Bed",
+                "without":"Child Without Bed"
+            },
+            "roomPrice": "Room Price Per Night",
+            "childPrice": "Child Reservation Price",
+            "fName": "First Name",
+            "lName": "Last Name",
+            "email": "Email Address",
+            "phone": "Phone Number",
+            "fDate": "From Date",
+            "tDate": "To Date",
+            "days": "Days Count",
+            "total": "Total",
+            "tax": "Tax",
+            "net": "Net",
+            "agentDiscount": "Agent Discount"
+        },
+        "bookMessage": "Your Booking Has Been Completed",
+        "bookingCode": "Your Reservation Code Is",
+        "yourBalance": "Your Balance Is ",
+        "noBalance": "No Enough Balance"
+    },
+
+    "flightReservation": {
+        "heading": "Flight Reservations",
+        "searchBar": {
+            "trip": ["Round Trip", "One Way"],
+            "from": "Going From",
+            "to": "Arrival In",
+            "fDate": "Departure Date",
+            "tDate": "Return Date",
+            "infants": "Number Of infants 0-2 Years",
+            "children": "Number Of Children 2-11 Years",
+            "adults": "Number Of Adults +12 Years"
+        },
+        "flightTable": {
+            "head": "Search Results",
+            "flightLine": "Flight Line",
+            "flightNumber": "Flight Number",
+            "adultPrice": "Adult Price",
+            "childrenPrice": "Children Price",
+            "infantPrice": "Infant Price",
+            "deptFrom": "Departure From",
+            "arrivalTo": "Arrival To",
+            "deptDateTime": "Departure Date & Time",
+            "arrivalDateTime": "Arrival Date & Time",
+            "returnStartDateTime": "Return Start Date & Time",
+            "returnEndDateTime": "Return End Date & Time",
+            "result": "No Results",
+            "suggestMessage": "There is no result from your search, but here is some suggested flights"
+        },
+        "flightBook": {
+            "head": "Flight Booking",
+            "leader": "Leader",
+            "airline": "Airline",
+            "allowReturn": "Allow Return",
+            "allowWeight": "Allow Weight (KG)",
+            "flightNum": "Flight Number",
+            "ticketNum": "Ticket Number",
+            "deptFrom": "Departure From",
+            "arrivalTo": "Arrival To",
+            "returnFrom": "Return From",
+            "deptDate": "Departure Date And Time",
+            "arrivalDate": "Arrival Date And Time",
+            "returnDeptDate": "Return Departure Date",
+            "returnArrivalDate": "Return Arrival Date",
+            "transitDirect": "Transit/Direct",
+            "stopNum": "Stops Number",
+            "stopPlaces": "Stop And Transit Places",
+            "stopHour": "Hours Arraive",
+            "stopHourReturn": "Hours Return Arraive",
+            "stopNumReturn": " Return Stops Number",
+            "stopPlacesReturn": "Stop And Transit Return Places",
+            "fName": "(Mr/Mrs) First Name",
+            "lName": "Last Name",
+            "fullName": "Full Name",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "type": "Type",
+            "email": "Email Address",
+            "phone": "Phone Number",
+            "nation": "Nationality",
+            "passportNum": "Passport Number",
+            "infants": "Number Of Infants 0-2 Years",
+            "children": "Number Of Children 2-11 Years",
+            "adults": "Number Of Adults +12 Years",
+            "infantsPrice": "Infants Price",
+            "childrenPrice": "Children Price",
+            "adultsPrice": "Adults Price",
+            "meal": "Meal Type",
+            "transport": "Transport Type",
+            "total": "Total",
+            "tax": "Tax",
+            "net": "Net",
+            "agentDiscount": "Agent Discount"
+        },
+        "bookMessage": "Your Booking Has Been Completed",
+        "bookingCode": "Your Reservation Code Is",
+        "yourBalance": "Your Balance Is ",
+        "noBalance": "No Enough Balance"
+    },
+
+    "buttons": {
+        "search": "Search",
+        "readMore": "Read More",
+        "bookNow": "Book Now",
+        "sendMessage": "Send Message",
+        "agent": "Agents",
+        "clients": "Clients",
+        "confirm": "Confirm Booking",
+        "login": "Login",
+        "signup": "Sign up",
+        "details": "Details",
+        "updateProfile": "Update Profile",
+        "showMore": "Show More",
+        "selectRoom": "Select Room"
+    },
+    "agentLogin": {
+        "head": "Agent Login",
+        "email": "Email Address",
+        "password": "Password"
+    },
+    "clientLogin": {
+        "head": "Login",
+        "email": "Email Address",
+        "password": "Password",
+        "haveAccount": "Don't Have An Account?",
+        "create": "Create An Account"
+    },
+    "clientSignup": {
+        "head": "Client Signup",
+        "name": "Name",
+        "email": "Email Address",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "already": "Already Have An account?",
+        "login": "Login",
+        "used": "This Email Address Already Used, Try Another One"
+    },
+    "dashAside": {
+        "heading": "Seasons Tour Cpanel",
+        "backHome": "Back To Home Page",
+        "links": [
+            "Agent Profile",
+            "Create Flight Reservation",
+            "Create Hotel Reservation",
+            "Create Car Reservation",
+            "Tourism Programme Search",
+            "Profile Settings",
+            "Train Reservation"
+        ],
+        "agent": {
+            "welcome": "Welcome",
+            "balance": "Agent Balance",
+            "discount": "Agent Discount"
+        },
+        "profile": {
+            "name": "Name",
+            "email": "Email Address",
+            "password": "Password",
+            "message": "Profile Updated!"
+        }
+    }
+}
