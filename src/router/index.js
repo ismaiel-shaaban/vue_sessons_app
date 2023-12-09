@@ -172,6 +172,12 @@ router.beforeEach((to, from, next) => {
     return next("en");
   }
 
+    // Check if the route is the home route and the user is not authenticated
+    if (to.name === "Home" ) {
+      // Redirect to the dashboard
+      return next({ name: "Agent Dashboard", params: { lang: lang, userId: "1" } });
+    }
+
   i18n.global.locale.value = lang;
   document.body.dir = lang === "en" ? "ltr" : "rtl";
   localStorage.setItem("lang", lang);

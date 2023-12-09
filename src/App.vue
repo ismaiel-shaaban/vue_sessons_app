@@ -14,6 +14,8 @@ import axios from 'axios';
             localStorage.setItem('websiteInfo', JSON.stringify( data.data[0]))
           
         })
+
+        
     // import { onMounted, onBeforeUnmount } from 'vue';
     // const preventContextMenu = (e) => {
     //   e.preventDefault();

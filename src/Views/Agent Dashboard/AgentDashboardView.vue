@@ -370,8 +370,8 @@ onMounted(async () => {
             data.data.forEach(el => {
                 if (el.id == route.params.userId) {
                     userData.value = el
-                    loading.value = false
                 }
+                loading.value = false
             })
         })
     
